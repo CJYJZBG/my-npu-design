@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dE:/work/modelsim/DRU
+vAGU
+Z0 !s110 1585104416
+!i10b 1
+!s100 KPUgOjz<CJNHYmnEaVAom1
+I0OXV@NAPC;9GRIDZ731MA2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dE:/work/modelsim/AGU
+w1585035862
+8E:/work/modelsim/AGU/AGU.v
+FE:/work/modelsim/AGU/AGU.v
+L0 2
+Z3 OV;L;10.4d;61
+r1
+!s85 0
+31
+Z4 !s108 1585104416.000000
+!s107 E:/work/modelsim/AGU/AGU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/work/modelsim/AGU/AGU.v|
+!i113 1
+Z5 o-work work
+n@a@g@u
+vAGU_test
+R0
+!i10b 1
+!s100 bAOb956IGQKj<]X1l0ACj3
+IO_6NG`<42I1lT[ZU2EWn]3
+R1
+R2
+w1585104403
+8E:\work\modelsim\AGU\AGU_test.v
+FE:\work\modelsim\AGU\AGU_test.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 E:\work\modelsim\AGU\AGU_test.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:\work\modelsim\AGU\AGU_test.v|
+!i113 1
+R5
+n@a@g@u_test

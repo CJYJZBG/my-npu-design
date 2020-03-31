@@ -1,0 +1,15 @@
+E:/work/modelsim/AGU/AGU_test.v {1 {vlog -work work -stats=none {E:\work\modelsim\AGU\AGU_test.v}
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module AGU_test
+
+Top level modules:
+	AGU_test
+
+} {} {}} E:/work/modelsim/AGU/AGU.v {1 {vlog -work work -stats=none E:/work/modelsim/AGU/AGU.v
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module AGU
+
+Top level modules:
+	AGU
+
+} {} {}}

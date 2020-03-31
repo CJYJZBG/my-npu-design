@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/altera/16.0
+vDRU
+Z0 !s110 1585043433
+!i10b 1
+!s100 L1nZYWW;;7;@gIc^A659:0
+I<HBnimjnW_TO21P6I?Md32
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dE:/work/modelsim/DRU
+w1585024528
+8E:/work/modelsim/DRU/DRU.v
+FE:/work/modelsim/DRU/DRU.v
+L0 2
+Z3 OV;L;10.4d;61
+r1
+!s85 0
+31
+Z4 !s108 1585043433.000000
+!s107 E:/work/modelsim/DRU/DRU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/work/modelsim/DRU/DRU.v|
+!i113 1
+Z5 o-work work
+n@d@r@u
+vDRU_test
+R0
+!i10b 1
+!s100 Oh304];GKFQ9<j0eZEiFJ1
+I`JRaH_Tc=:@GGP=00kLzn1
+R1
+R2
+w1585043395
+8E:/work/modelsim/DRU/DRU_test.v
+FE:/work/modelsim/DRU/DRU_test.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 E:/work/modelsim/DRU/DRU_test.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/work/modelsim/DRU/DRU_test.v|
+!i113 1
+R5
+n@d@r@u_test

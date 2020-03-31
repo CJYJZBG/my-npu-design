@@ -1,0 +1,15 @@
+E:/work/modelsim/DRU/DRU_test.v {1 {vlog -work work -stats=none E:/work/modelsim/DRU/DRU_test.v
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module DRU_test
+
+Top level modules:
+	DRU_test
+
+} {} {}} E:/work/modelsim/DRU/DRU.v {1 {vlog -work work -stats=none E:/work/modelsim/DRU/DRU.v
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module DRU
+
+Top level modules:
+	DRU
+
+} {} {}}
